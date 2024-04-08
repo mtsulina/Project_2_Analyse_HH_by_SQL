@@ -65,7 +65,7 @@ Tаблица EMPLOYERS_INDUSTRIES
 ## Установка проекта
 
 ```
-git clone 
+git clone https://github.com/mtsulina/Project_2_Analyse_HH_by_SQL.git
 ```
 
 ## Использование
